@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1>Hi there 👋 I`m Irina</h1>
+<p>I`m a frontend developer, currently working at Monitor Soft Ural</p>
+<h2>Languages and Tools:</h2>
+<p><img src="https://github.com/IVIatilda/IVIatilda/blob/main/html5-color.svg" width="15" height="15" /> HTML 5</p>
+<p><img src="https://github.com/IVIatilda/IVIatilda/blob/main/css3-color.svg" width="15" height="15" /> CSS 3</p>
+<p><img src="https://github.com/IVIatilda/IVIatilda/blob/main/javascript-color.svg" width="15" height="15" /> JavaScript</p>
+<p><img src="https://github.com/IVIatilda/IVIatilda/blob/main/typescript-color.svg" width="15" height="15" /> TypeScript</p>
+<p><img src="https://github.com/IVIatilda/IVIatilda/blob/main/git-color.svg" width="15" height="15" /> Git</p>
+<p><img src="https://github.com/IVIatilda/IVIatilda/blob/main/angular-color.svg" width="15" height="15" /> Angular</p>
+
+
 
 <!--
 **IVIatilda/IVIatilda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
