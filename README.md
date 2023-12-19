@@ -1,5 +1,5 @@
 <h1>Hi there 👋 I`m Irina</h1>
-<p>I`m a frontend developer, currently working at Monitor Soft Ural</p>
+<p>I`m a frontend developer, currently working at Extreme Soft</p>
 <h2>Languages and Tools:</h2>
 <p><img src="https://github.com/IVIatilda/IVIatilda/blob/main/html5-color.svg" width="15" height="15" /> HTML 5</p>
 <p><img src="https://github.com/IVIatilda/IVIatilda/blob/main/css3-color.svg" width="15" height="15" /> CSS 3</p>
